@@ -1,0 +1,303 @@
+{
+    "G1": {
+        "name": "Gang-Gebiet 1",
+        "kategorie": "Gang-Gebiete",
+        "preis": "8.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "G2": {
+        "name": "Gang-Gebiet 2",
+        "kategorie": "Gang-Gebiete",
+        "preis": "5.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "G3": {
+        "name": "Gang-Gebiet 3",
+        "kategorie": "Gang-Gebiete",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "<@1161336464869699604>"
+    },
+    "G4": {
+        "name": "Gang-Gebiet 4",
+        "kategorie": "Gang-Gebiete",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L1": {
+        "name": "Laden 1",
+        "kategorie": "Läden",
+        "preis": "2.000$",
+        "status": "Frei",
+        "besitzer": "<@1498399845646602260>"
+    },
+    "L2": {
+        "name": "Laden 2",
+        "kategorie": "Läden",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L3": {
+        "name": "Laden 3",
+        "kategorie": "Läden",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L4": {
+        "name": "Laden 4",
+        "kategorie": "Läden",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L5": {
+        "name": "Laden 5",
+        "kategorie": "Läden",
+        "preis": "10.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L6": {
+        "name": "Laden 6",
+        "kategorie": "Läden",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L7": {
+        "name": "Laden 7",
+        "kategorie": "Läden",
+        "preis": "11.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L8": {
+        "name": "Laden 8",
+        "kategorie": "Läden",
+        "preis": "2.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L9": {
+        "name": "Laden 9",
+        "kategorie": "Läden",
+        "preis": "7.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L10": {
+        "name": "Laden 10",
+        "kategorie": "Läden",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "L11": {
+        "name": "Laden 11",
+        "kategorie": "Läden",
+        "preis": "2.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S1": {
+        "name": "Staatliches Grundstück 1",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "6.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S2": {
+        "name": "Staatliches Grundstück 2",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S3": {
+        "name": "Staatliches Grundstück 3",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S4": {
+        "name": "Staatliches Grundstück 4",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S5": {
+        "name": "Staatliches Grundstück 5",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "7.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S6": {
+        "name": "Staatliches Grundstück 6",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S7": {
+        "name": "Staatliches Grundstück 7",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "5.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S8": {
+        "name": "Staatliches Grundstück 8",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "7.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S9": {
+        "name": "Staatliches Grundstück 9",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "S10": {
+        "name": "Staatliches Grundstück 10",
+        "kategorie": "Staatliche Grundstücke",
+        "preis": "6.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H1": {
+        "name": "Haus 1",
+        "kategorie": "Häuser",
+        "preis": "2.000$",
+        "status": "Frei",
+        "besitzer": "<@1498399845646602260>"
+    },
+    "H2": {
+        "name": "Haus 2",
+        "kategorie": "Häuser",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "<@1472305698569453771>"
+    },
+    "H3": {
+        "name": "Haus 3",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "<@1229810916724445225>"
+    },
+    "H4": {
+        "name": "Haus 4",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "<@992912453363044493>"
+    },
+    "H5": {
+        "name": "Haus 5",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H6": {
+        "name": "Haus 6",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H7": {
+        "name": "Haus 7",
+        "kategorie": "Häuser",
+        "preis": "2.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H8": {
+        "name": "Haus 8",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H9": {
+        "name": "Haus 9",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "<@705521625134661745>"
+    },
+    "H10": {
+        "name": "Haus 10",
+        "kategorie": "Häuser",
+        "preis": "2.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H11": {
+        "name": "Haus 11",
+        "kategorie": "Häuser",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H12": {
+        "name": "Haus 12",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H13": {
+        "name": "Haus 13",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H14": {
+        "name": "Haus 14",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H15": {
+        "name": "Haus 15",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H16": {
+        "name": "Haus 16",
+        "kategorie": "Häuser",
+        "preis": "2.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H17": {
+        "name": "Haus 17",
+        "kategorie": "Häuser",
+        "preis": "3.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    },
+    "H18": {
+        "name": "Haus 18",
+        "kategorie": "Häuser",
+        "preis": "4.000$",
+        "status": "Frei",
+        "besitzer": "Frei"
+    }
+}
